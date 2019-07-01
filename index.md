@@ -9,13 +9,14 @@ Center for Computational Math Science and Engineering
 piersonguthrey(at)gmail(dot)com
 
 
-
-
-
 <a href="https://stackexchange.com/users/2373753"><img src="https://stackexchange.com/users/flair/2373753.png" width="208" height="58" alt="profile for InfiniteElementMethod on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for InfiniteElementMethod on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-### Research Projects
+
+### My keywords
+
 discontinuous galerkin methods, ultra high order methods, hyperbolic conservation laws, high performance computing, GPU computing, shock hydrodynamics, limiters, imex, magnetohydrodynamics, plasmas, relativistic plasmas, computational science, numerical analysis,  machine learning
+
+### Research Projects
 
 *  [RIDG](./ridg): The Regionally Implicit Discontinious Galerkin method, a high-order explicit method able to take very large (CFL of order 1) time-steps while maintaining nearest neighbor stenciling
 *  [shock hydro](./shocks): There are numerous approaches to limiting spurious oscillations, but extending these to space-time formulations is an open challenge

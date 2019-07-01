@@ -4,7 +4,7 @@ layout: default
 
 ## Dog Training
 
-![raven1](./images/raven1.jpg){: .image-left }![raven2](./images/raven2.jpg)
+![raven2](./images/raven2.jpg)
 
 Another hobby of mine is dog training.  My pup Raven seems to be a black lab+border collie+terrier mix, and she is a quick learner!  She has the following titles 
 
@@ -13,8 +13,8 @@ Another hobby of mine is dog training.  My pup Raven seems to be a black lab+bor
 
 And is working on the following:
 
-* AKC Intermediate Tricks Dog (9/10)
-* AKC Advanced Tricks Dog (1/10)
-* AKC Performer Dog (1/10)
+* AKC Intermediate Tricks Dog (90%)
+* AKC Advanced Tricks Dog (10%)
+* AKC Performer Dog (10%)
 
 [back](./)
