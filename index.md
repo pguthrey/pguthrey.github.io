@@ -4,8 +4,9 @@ layout: default
 
 ## Pierson T. Guthrey
 
-<a href="https://stackexchange.com/users/2373753"><img src="https://stackexchange.com/users/flair/2373753.png" width="208" height="58" alt="profile for InfiniteElementMethod on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for InfiniteElementMethod on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+I am currently a postdoc with the [Center for Computational Math Science and Engineering](https://cmse.msu.edu/) at [Michigan State University](https://msu.edu/).
 
+I received my Ph.D. from [Iowa State University](https://math.iastate.edu/).
 
 ### My keywords
 
