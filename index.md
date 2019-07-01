@@ -4,11 +4,8 @@ layout: default
 
 ## Pierson T. Guthrey
 
-![Pierson T. Guthrey](./images/pierson.jpg)](http://www.thiengo.com.br/proguard-android){: .image-left } 
-Postdoc, Michigan State University 
-
+![Pierson T. Guthrey](./images/pierson.jpg){: .image-left } Postdoc, Michigan State University 
 Center for Computational Math Science and Engineering
-
 Email is my first name then last name @gmail.com
 
 
