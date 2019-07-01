@@ -10,6 +10,10 @@ Center for Computational Math Science and Engineering
 
 Email is my first name then last name @gmail.com
 
+
+
+<a href="https://stackexchange.com/users/2373753"><img src="https://stackexchange.com/users/flair/2373753.png" width="208" height="58" alt="profile for InfiniteElementMethod on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for InfiniteElementMethod on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ### Research Projects
 discontinuous galerkin methods, ultra high order methods, hyperbolic conservation laws, high performance computing, GPU computing, shock hydrodynamics, limiters, imex, magnetohydrodynamics, plasmas, relativistic plasmas, computational science, numerical analysis,  machine learning
 
