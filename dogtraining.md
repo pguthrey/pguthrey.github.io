@@ -4,8 +4,7 @@ layout: default
 
 ## Dog Training
 
-![raven1](./images/raven1.png)
-![raven2](./images/raven2.png)
+![raven1](./images/raven1.jpg){: .image-left }![raven2](./images/raven2.jpg)
 
 Another hobby of mine is dog training.  My pup Raven seems to be a black lab+border collie+terrier mix, and she is a quick learner!  She has the following titles 
 

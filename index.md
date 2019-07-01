@@ -4,9 +4,10 @@ layout: default
 
 ## Pierson T. Guthrey
 
-![Pierson T. Guthrey](./images/pierson.jpg){: .image-left } Postdoc, Michigan State University 
+![Pierson T. Guthrey](./images/pierson.jpg)<!-- .element height="50%" width="50%" -->{: .image-left } Postdoc, Michigan State University \\
 Center for Computational Math Science and Engineering
-Email is my first name then last name @gmail.com
+piersonguthrey(at)gmail(dot)com
+
 
 
 
@@ -18,7 +19,7 @@ discontinuous galerkin methods, ultra high order methods, hyperbolic conservatio
 
 *  [RIDG](./ridg): The Regionally Implicit Discontinious Galerkin method, a high-order explicit method able to take very large (CFL of order 1) time-steps while maintaining nearest neighbor stenciling
 *  [shock hydro](./shocks): There are numerous approaches to limiting spurious oscillations, but extending these to space-time formulations is an open challenge
-*  [kinetics](./kinetics): Relativistic plasmas 
+*  [kinetics](./kinetics): Relativistic plasma models offer rich new computational challenges while still recovering the classical limits
 
 ### Computational Projects
 

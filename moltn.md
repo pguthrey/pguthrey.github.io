@@ -17,7 +17,9 @@ The codebase will be open to the public soon!
 Papers related to MOLTN:
 
 [(in review) Method of Line Transpose Based High-Order A-Stable Embedded Boundary Scheme for Complex Geometries.  M.  Thavappiragasama, A.  Viswanathand, P. Guthrey, A. Christlieb.](./)
+
 [(coming soon) P.T. Guthrey, A.J. Christlieb, M.  Thavappiragasama, W. Sands.  The Method of Lines Transpose: Parallel Implementation for Electromagnetics](./)
+
 [(coming soon) P.T. Guthrey, A.J. Christlieb, and M. Murillo. Hydrodynamics Approach to the visco-elastic density functional theory closure of the BBGKY Hierarchy.](./)
 
 [back](./)
