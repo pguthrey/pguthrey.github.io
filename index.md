@@ -4,11 +4,6 @@ layout: default
 
 ## Pierson T. Guthrey
 
-![Pierson T. Guthrey](./images/pierson.jpg)<!-- .element height="50%" width="50%" -->{: .image-left } Postdoc, Michigan State University \\
-Center for Computational Math Science and Engineering
-piersonguthrey(at)gmail(dot)com
-
-
 <a href="https://stackexchange.com/users/2373753"><img src="https://stackexchange.com/users/flair/2373753.png" width="208" height="58" alt="profile for InfiniteElementMethod on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for InfiniteElementMethod on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
