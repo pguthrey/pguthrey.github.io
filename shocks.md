@@ -4,8 +4,7 @@ layout: default
 
 ## Shock Hydrodynamics
 
-Limiters are critical to preventing the spurious oscillations inherent to most numerical schemes from destroying your solution.  
-Complicated limiters can be computationally expensive, which may destroy your method efficiency and/or scalability. Simple limiters may prevent catastrophic problems in your solution but may cause unphysical behavior.  
+Limiters are critical to preventing the spurious oscillations inherent to most numerical schemes from destroying your solution. Complicated limiters can be computationally expensive, which may destroy your method efficiency and/or scalability. Simple limiters may prevent catastrophic problems in your solution but may cause unphysical behavior.  
 
 #### Sod Shock Tube
 

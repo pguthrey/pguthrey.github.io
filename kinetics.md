@@ -4,9 +4,7 @@ layout: default
 
 ## Kinetic Equations
 
-The original motivation behind the Regionally-Implicit DG method was to develop an efficient solver for the relativistic Vlasov-Maxwell (RVM) system in order to model laser-plasma interactions.  
-The unique difficulty inherent to the relativistic regime of plasmas is that operator splitting of the relativistic Lorentz Force term leads to unphysical instabilities [Huot et. al 2003].  
-Our approach implements Cheng-Knorr splitting, using a Semi-Lagrangian DG method for the advection term and the electromagnetic field update, and RIDG for the Lorentz force term. 
+The original motivation behind the Regionally-Implicit DG method was to develop an efficient solver for the relativistic Vlasov-Maxwell (RVM) system in order to model laser-plasma interactions.  The unique difficulty inherent to the relativistic regime of plasmas is that operator splitting of the relativistic Lorentz Force term leads to unphysical instabilities [Huot et. al 2003].  Our approach implements Cheng-Knorr splitting, using a Semi-Lagrangian DG method for the advection term and the electromagnetic field update, and RIDG for the Lorentz force term. 
 
 Our current work centers around two popular relativistic phenomena:
 
