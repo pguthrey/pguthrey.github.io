@@ -24,5 +24,6 @@ discontinuous galerkin methods, ultra high order methods, hyperbolic conservatio
 
 ### Personal Projects
 
+*  [The Applied Math Spellbook](./spellbook): Typed notes from my time in graduate school
 *  [Board Games](./boardgames): Board Game design
 *  [Dog Training](./dogtraining): AKC tricks dog training
