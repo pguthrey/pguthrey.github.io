@@ -10,7 +10,7 @@ This is a former project of mine where I was compiling my notes from various cla
 
 *  <a href="/spellbook/SpacesandProperties.pdf" download="SpacesandProperties.pdf">SpacesandProperties.pdf</a> : An enumeration of the most common spaces seen in Applied Math, and descriptions of their defining traits.
 *  <a href="/spellbook/CompressibleFluidsNotes.pdf" download="CompressibleFluidsNotes.pdf">CompressibleFluidsNotes.pdf</a> : 
-Introduces the theory behind Finite Element Methods.
+Introduces the theory and physics behind shock hydrodynamics
 *  <a href="/spellbook/Appendix.pdf" download="Appendix.pdf">Appendix.pdf</a> :
 Common identities, useful results, and summaries of the most critical theorems.
 *  <a href="/spellbook/IntroductoryAnalysis.pdf" download="IntroductoryAnalysis.pdf">IntroductoryAnalysis.pdf</a> :
