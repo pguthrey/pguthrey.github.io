@@ -7,7 +7,6 @@ layout: default
 This is a former project of mine where I was compiling my notes from various classes, notable textbooks, and independent explorations. I never polished the notes into a textbook, but that might be an interesting project if I ever have the opportunity. Please feel free to email me any mistakes you notice or comments you have about this compendium. 
 
 ![spellbook](./images/spellbook.gif)
-/files/ryan_pelletier_resume.docx" download
 
 *  <a href="/spellbook/SpacesandProperties.pdf" download="SpacesandProperties.pdf">SpacesandProperties.pdf</a> : An enumeration of the most common spaces seen in Applied Math, and descriptions of their defining traits.
 *  <a href="/spellbook/CompressibleFluidsNotes.pdf" download="CompressibleFluidsNotes.pdf">CompressibleFluidsNotes.pdf</a> : 
