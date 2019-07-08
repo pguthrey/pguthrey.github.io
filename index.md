@@ -4,9 +4,11 @@ layout: default
 
 ## Pierson T. Guthrey
 
-I am currently a postdoc with the [Center for Computational Math Science and Engineering](https://cmse.msu.edu/) at [Michigan State University](https://msu.edu/).
+I am currently a postdoc with the [Center for Computational Math Science and Engineering](https://cmse.msu.edu/) at [Michigan State University](https://msu.edu/) working with [Andrew Christlieb](https://cmse.msu.edu/directory/faculty/andrew-christlieb/).
 
-I received my Ph.D. from [Iowa State University](https://math.iastate.edu/).
+I received my Ph.D. from [Iowa State University](https://math.iastate.edu/) under the advisement of [James Rossmanith](https://faculty.sites.iastate.edu/rossmani/).
+
+Feel free to download my CV <a href="/Guthrey_cv.pdf" download="Guthrey_cv.pdf">here</a>.
 
 ### My keywords
 
